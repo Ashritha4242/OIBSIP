@@ -1,0 +1,26 @@
+/* .container{
+    margin:auto
+} */
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.button{
+    padding: 12px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.container{
+    align-items: center;
+}
+.row{
+    margin: 8px 0;
+}
+.row input{
+margin: 1;
+padding: 6px 28px 2px 10px;
+border-radius: 5px;
+border: 2px slid black;
+}

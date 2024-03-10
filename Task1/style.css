@@ -6,8 +6,8 @@ html,body{
     width: 100%;
 }
 .button{
-    padding: 12px;
-    margin: 0 3px;
+    padding: 14px;
+    margin: 0 6px;
     border: 2px solid black;
     border-radius: 8px;
     cursor: pointer;
@@ -19,8 +19,9 @@ html,body{
     margin: 8px 0;
 }
 .row input{
+    font-size: medium;
 margin: 1;
-padding: 6px 28px 2px 10px;
+padding: 6px 12px 6px 12px;
 border-radius: 5px;
 border: 2px slid black;
 }

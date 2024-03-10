@@ -11,17 +11,30 @@ html,body{
     border: 2px solid black;
     border-radius: 8px;
     cursor: pointer;
+    width: 50px;
+    font-size: medium;
+    /* background-color: rgba(213, 210, 210, 0.425); */
+}
+.button:hover{
+    color:rgb(10, 10, 239);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 .container{
     align-items: center;
 }
 .row{
     margin: 8px 0;
+    justify-content: center;
+    
 }
 .row input{
-    font-size: medium;
+font-size: medium;
 margin: 1;
 padding: 6px 12px 6px 12px;
 border-radius: 5px;
 border: 2px slid black;
+width: 216px;
+}
+.row input:hover{
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
